@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHRIKANT PADHY</h1>
-<h3 align="center">***BELIEVE***PLAN***ACT***REPEAT</h3>
+<h3 align="center">***BELIEVE***PLAN***ACT***REPEAT***</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikantpadhy18&label=Profile%20views&color=0e75b6&style=flat" alt="shrikantpadhy18" /> </p>
 
